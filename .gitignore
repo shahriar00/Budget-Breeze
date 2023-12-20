@@ -33,7 +33,6 @@ migrate_working_dir/
 /build/
 /lib/mobileversion/
 /lib/webversion/
-/lib/responsive_handler.dart/
 # Symbolication related
 app.*.symbols
 
