@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208518070528",
+    "project_id": "budget-breeze",
+    "storage_bucket": "budget-breeze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208518070528:android:087d2eea2d179426f833e5",
+        "android_client_info": {
+          "package_name": "com.example.budgetbreeze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdCV7X0gZGN9s8YVDkbwD2RzXOocwBnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
