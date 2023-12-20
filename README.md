@@ -1,16 +1,13 @@
-# budgetbreeze
+## This is a budget breeze web and app for budget estimation.
 
-A new Flutter project.
+** Key Features ** 
+1. Email Password Login and Registration.
+2. Google Auth
+3. Logout
+4. Refresh the page data.
+5. Input Taken
+6. Data Save and Read from the Firebase.
+7. Realtime Data changing.
+8. Full Responsible.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![breeze1](https://github.com/shahriar00/Budget-Breeze/assets/70763173/6b1a8295-10bf-4335-8093-6ded36025f17)
