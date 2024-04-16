@@ -10,7 +10,6 @@
 7. Realtime Data changing.
 8. Full Responsible.
 
-
 ### Web View:
 ![breeze1](https://github.com/shahriar00/Budget-Breeze/assets/70763173/6b1a8295-10bf-4335-8093-6ded36025f17)
 
