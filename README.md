@@ -1,5 +1,4 @@
 ## This is a budget breeze web and app for budget estimation.
-
 ** Key Features ** 
 1. Email Password Login and Registration.
 2. Google Auth
